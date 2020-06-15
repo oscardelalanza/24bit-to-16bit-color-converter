@@ -1,5 +1,5 @@
 #include <stdio.h>
-// 128, 255, 114 screaming green
+
 unsigned int colorConvert(unsigned int color24bits);
 
 int main() {
