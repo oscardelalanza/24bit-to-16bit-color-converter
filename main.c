@@ -1,9 +1,17 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 unsigned int colorConvert(unsigned int color24bits);
 
 int main() {
-  printf("%x", colorConvert(0x80ff72));
+  unsigned int color = 1;
+
+  while (color != 0) {
+    printf("Hex value: ");
+    scanf("%x", &color);
+    printf("%x\n", colorConvert(color));
+  }
+
   return 0;
 }
 
