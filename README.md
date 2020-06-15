@@ -1,0 +1,1 @@
+# 24bit-to-16bit-color-converter
