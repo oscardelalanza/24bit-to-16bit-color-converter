@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 unsigned int colorConvert(unsigned int color24bits);
 
