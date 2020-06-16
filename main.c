@@ -8,7 +8,7 @@ int main() {
   while (color != 0) {
     printf("Hex value: ");
     scanf("%x", &color);
-    printf("%x\n", colorConvert(color));
+    printf("0x%x\n", colorConvert(color));
   }
 
   return 0;
