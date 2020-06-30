@@ -1,4 +1,4 @@
-# 24 bits to 16 bits color converter
+# 24 bit to 16 bit color converter
 
 > This program is used to convert 24 bits hexadecimal color codes to 16 bits hexadecimal color codes, in order to use the
 > most similar color codes from websites like `coolors.co` in any arduino board that isn't able to handle big integers.
@@ -36,7 +36,7 @@ Compile the project to create an executable file.
 
 - Start the program running the command `./color-converter`.
 - Type in the terminal the 24 bit color code to convert. Use the format `0x000000`.
-- The closest 16 bits color code will be printed on the screen.
+- The closest 16 bit color code will be printed on the screen.
 - Type `0` to end the program.
 
 ### Run tests
