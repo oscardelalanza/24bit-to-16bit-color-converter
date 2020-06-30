@@ -36,7 +36,7 @@ Compile the project to create an executable file.
 
 - Start the program running the command `./color-converter`.
 - Type in the terminal the 24 bit color code to convert. Use the format `0x000000`.
-- The closet 16 bits color code will be printed on the screen.
+- The closest 16 bits color code will be printed on the screen.
 - Type `0` to end the program.
 
 ### Run tests
