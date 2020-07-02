@@ -39,14 +39,6 @@ Compile the project to create an executable file.
 - The closest 16 bit color code will be printed on the screen.
 - Type `0` to end the program.
 
-### Run tests
-
-- This project doesn't contain tests.
-
-### Deployment
-
-- Not needed.
-
 ## Authors
 
 👤 **Oscar De La Lanza**
